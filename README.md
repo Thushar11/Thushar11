@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🎓 MCA Student
-- 🌱 Currently learning **Ruby on Rails, PostgreSQL, Java, and DSA**
+- 🌱 Currently learning **MERN Stack Development, Ruby on Rails, PostgreSQL, Java, and DSA**
 - 💻 Interested in **Web Development & Backend Development**
 - 🛠️ Building projects using **Ruby on Rails**
 - 📚 Solving coding problems on LeetCode
