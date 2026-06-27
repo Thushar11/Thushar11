@@ -1,85 +1,21 @@
+# 💫 About Me:
+MERN STACK DEVELOPER
 
-<h1 align="center">Hi 👋, I'm Thushar S Shetty</h1>
-<h3 align="center">Computer Science Student | Ruby on Rails Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thushar11&label=Profile%20views&color=0e75b6&style=flat" alt="Thushar11" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thushar Shetty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shettythushar3@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Thushar11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Thushar11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thushar11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 About Me
-
-- 🎓 MCA Student
-- 🌱 Currently learning **MERN Stack Development, Ruby on Rails, PostgreSQL, Java, and DSA**
-- 💻 Interested in **Web Development & Backend Development**
-- 🛠️ Building projects using **Ruby on Rails**
-- 📚 Solving coding problems on LeetCode
-- ⚡ Fun fact: I love turning ideas into real projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Thushar11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Thushar11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,ruby,js,html,css,c,cpp" />
-</p>
-
-### Frameworks & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=rails,bootstrap,postgresql,mysql" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,heroku" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🗳️ Online Voting System
-- Built using Ruby on Rails & PostgreSQL
-- One user can vote only once
-- Admin can view results
-- Secure authentication system
-
-### 🌐 Portfolio & Web Projects
-- Responsive websites using HTML, CSS & JavaScript
-- Clean UI and modern layouts
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thushar11&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thushar11&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushar11&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/Thushar11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ From [Thushar11](https://github.com/Thushar11)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
